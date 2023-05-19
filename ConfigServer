@@ -15,4 +15,5 @@ okta:
     client-secret: dTsD7uuKo6YSMOese5y6RvabkHxc8-AriHi-i5ld
     scopes: openid, email, profile, offline_access
   url: https://dev-67719000.okta.com
-  apiToken: 00W4G3AT8QGHUZtsFG8n8mXN__N_s0UFIKt6QzhIIx
+  client:
+    token: 00W4G3AT8QGHUZtsFG8n8mXN__N_s0UFIKt6QzhIIx
