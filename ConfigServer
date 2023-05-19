@@ -16,4 +16,4 @@ okta:
     scopes: openid, email, profile, offline_access
   url: https://dev-67719000.okta.com
   client:
-    token: 00W4G3AT8QGHUZtsFG8n8mXN__N_s0UFIKt6QzhIIx
+    token: SSWS 00W4G3AT8QGHUZtsFG8n8mXN__N_s0UFIKt6QzhIIx
