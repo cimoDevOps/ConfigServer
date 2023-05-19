@@ -14,7 +14,7 @@ okta:
     client-id: 0oa9l4ygzl64PcAbb5d7
     client-secret: dTsD7uuKo6YSMOese5y6RvabkHxc8-AriHi-i5ld
     scopes: openid, email, profile, offline_access
-    url: dev-67719000.okta.com
+    url: https://dev-67719000.okta.com
 #spring:
   #zipkin:
     #baseUrl: localhost:9411
